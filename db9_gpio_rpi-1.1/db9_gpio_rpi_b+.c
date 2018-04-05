@@ -2,6 +2,8 @@
  *  Copyright (c) 2013	Markus Hiienkari
  *
  *  Based on the db9 driver by Vojtech Pavlik
+ *
+ *  mod of version 0.7 to work on a rpi b+ alongside gamecon_gpio_rpi
  */
 
 /*
